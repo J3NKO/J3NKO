@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Callum adn welcome to my slice of GitHub :) 
+
+I am starting my path into full stack web development, I hope you enjoy what my profile has to offer!
 
 <!--
 **J3NKO/J3NKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

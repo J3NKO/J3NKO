@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Callum adn welcome to my slice of GitHub :) 
+My name is Callum, welcome to my slice of GitHub :) 
 
 I am starting my path into full stack web development, I hope you enjoy what my profile has to offer!
 
